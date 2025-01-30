@@ -1,5 +1,5 @@
 # devcon-slides
-The phpXperts DevCon learning materials
+The phpXperts DevCon learning materials, please find the following slides in this repo.
 
 # Background Task Processing with Celery by Abu Ashraf Masnun
 
